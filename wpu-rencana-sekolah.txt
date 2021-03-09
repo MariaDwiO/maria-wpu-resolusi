@@ -4,5 +4,7 @@ Rencana sekolah
 - belajar html
   * website
 - belajar java
-- belajar membuat apk
+  * membuat apk kasir
+  * membuat sistem perhitungan
 - belajar database
+  * ERD atau ER Diagram
