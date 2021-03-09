@@ -4,6 +4,7 @@ Rencana sekolah
 - belajar html
   * website
 - belajar java
+  * membuat apk kasir
 - belajar membuat apk
 - belajar database
- * hirarki database
+  * hirarki database
