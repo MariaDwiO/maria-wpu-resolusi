@@ -2,3 +2,5 @@ WPU resolusi
 - belajar membuat sistem login yang baik dan legkap
 - membuat website 
 - membuat toko online
+- menyelesaikan tugas untuk prakerin
+- mendapatkan tempat prakerin yang sesuai 
