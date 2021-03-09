@@ -6,3 +6,4 @@ Rencana sekolah
 - belajar java
 - belajar membuat apk
 - belajar database
+ * hirarki database
