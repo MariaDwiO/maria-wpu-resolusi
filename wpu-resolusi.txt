@@ -1,0 +1,4 @@
+WPU resolusi
+- belajar membuat sistem login yang baik dan legkap
+- membuat website 
+- membuat toko online
