@@ -8,4 +8,5 @@ Rencana sekolah
 - belajar database
   * hirarki database
   * ERD atau ER Diagram
+- belajar javascript
 
