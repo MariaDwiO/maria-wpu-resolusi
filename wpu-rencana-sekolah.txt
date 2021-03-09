@@ -5,3 +5,4 @@ Rencana sekolah
   * website
 - belajar java
 - belajar membuat apk
+- belajar database
